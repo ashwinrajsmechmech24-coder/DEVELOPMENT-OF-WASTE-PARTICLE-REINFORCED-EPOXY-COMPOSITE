@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-WASTE-PARTICLE-REINFORCED-EPOXY-COMPOSITE
+focuses on developing a polymer composite plate by mixing waste tea powder with epoxy resin. The fabricated plate will be tested for its mechanical properties, including strength, hardness, and bending resistance. The aim is to explore the potential of waste tea powder as a low-cost, eco-friendly reinforcement material for engineering applications
